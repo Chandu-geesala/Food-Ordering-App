@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "187850466874",
+    "project_id": "minerva-1fdeb",
+    "storage_bucket": "minerva-1fdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187850466874:android:38bb73902afd4521f2b703",
+        "android_client_info": {
+          "package_name": "com.chandu.seller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f4HYSXPl664jXY02TftIsND4SxH8ViM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187850466874:android:a9e36aa88acb9dddf2b703",
+        "android_client_info": {
+          "package_name": "com.example.riders_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f4HYSXPl664jXY02TftIsND4SxH8ViM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187850466874:android:fdfb8aebe5e2f089f2b703",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f4HYSXPl664jXY02TftIsND4SxH8ViM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
