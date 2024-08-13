@@ -15,10 +15,11 @@ Future<void> main() async {
   Platform.isAndroid
       ? await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: " ",
-          appId: " ",
+          apiKey: "API key",
+          appId: "API ID",
           messagingSenderId: " ",
-          projectId: ' '))
+          projectId: 'ID' )
+  )
       : await Firebase.initializeApp();
 
   sharedPreferences = await SharedPreferences.getInstance();
